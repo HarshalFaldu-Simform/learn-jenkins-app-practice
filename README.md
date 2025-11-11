@@ -1,6 +1,35 @@
 # Learn Jenkins App
 
+This is a React application designed for learning Jenkins CI/CD practices with AWS deployment.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Getting Started
+
+### Cloning This Repository
+
+To use this repository for your own Jenkins learning:
+
+1. **Fork or clone this repository:**
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/learn-jenkins-app-practice.git
+   cd learn-jenkins-app-practice
+   ```
+
+2. **Follow the detailed setup guide:** See [SETUP.md](SETUP.md) for complete instructions on:
+   - Installing dependencies
+   - Configuring AWS resources
+   - Setting up Jenkins pipeline
+   - Customizing for your environment
+
+### Quick Local Development
+
+```bash
+npm ci           # Install dependencies
+npm start        # Run development server
+npm test         # Run tests
+npm run build    # Create production build
+```
 
 ## Available Scripts
 
