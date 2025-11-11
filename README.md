@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Getting Started
 
+### 🚀 New to this repository?
+
+- **Quick Start**: See [QUICKSTART.md](QUICKSTART.md) for a 5-minute setup guide
+- **Full Setup**: See [SETUP.md](SETUP.md) for complete configuration with Jenkins and AWS
+- **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines
+
 ### Cloning This Repository
 
 To use this repository for your own Jenkins learning:
@@ -16,11 +22,9 @@ To use this repository for your own Jenkins learning:
    cd learn-jenkins-app-practice
    ```
 
-2. **Follow the detailed setup guide:** See [SETUP.md](SETUP.md) for complete instructions on:
-   - Installing dependencies
-   - Configuring AWS resources
-   - Setting up Jenkins pipeline
-   - Customizing for your environment
+2. **Choose your path:**
+   - For local development only → [QUICKSTART.md](QUICKSTART.md)
+   - For full CI/CD setup → [SETUP.md](SETUP.md)
 
 ### Quick Local Development
 
